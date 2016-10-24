@@ -1,0 +1,48 @@
+body{
+  background-color: black;
+}
+
+#test{
+  margin: 8%;
+  margin-left: 20%;
+  text-align: right;
+  padding-left: 10%;
+  padding-top: 5px;
+  max-width: 800px;
+  font-size: 20px;
+  color: #fff;
+ 
+}
+#me{
+  float:right;
+  border-radius: 50%;
+  margin-right: 50px;
+  margin-left: 20px;
+  
+}
+#links{
+  text-align: center;
+}
+
+#topLink a{
+  color: grey;
+}
+#topLink a:hover{
+  background-color: lightgrey;
+}
+#topLink a:active{
+  background-color: #111;
+}
+#Portfolio1{
+  height: 650px;
+  background-color: grey;
+  text-align: center;
+}
+#Contact{
+  text-align: center;
+  color: white;
+  height: 300px;
+}
+#contactfont{
+  margin-top: 100px;
+}
