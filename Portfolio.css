@@ -34,7 +34,7 @@ body{
   background-color: #111;
 }
 #Portfolio1{
-  height: 650px;
+  height: 550px;
   background-color: grey;
   text-align: center;
 }
@@ -45,4 +45,8 @@ body{
 }
 #contactfont{
   margin-top: 100px;
+}
+
+.project{
+  margin-top: 20px;
 }
