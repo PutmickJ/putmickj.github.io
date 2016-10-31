@@ -19,6 +19,7 @@ body{
   margin-right: 50px;
   margin-left: 20px;
   
+  
 }
 #links{
   text-align: center;
@@ -34,7 +35,7 @@ body{
   background-color: #111;
 }
 #Portfolio1{
-  height: 550px;
+  height: auto;
   background-color: grey;
   text-align: center;
 }
@@ -49,4 +50,5 @@ body{
 
 .project{
   margin-top: 20px;
+  
 }
