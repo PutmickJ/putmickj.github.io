@@ -1,0 +1,1 @@
+Created area for Images
