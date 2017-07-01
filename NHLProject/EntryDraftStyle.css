@@ -1,0 +1,122 @@
+body{
+	background-color: black;
+}
+
+#wholePage{
+	background-color: black;
+}
+
+#sidebar{
+	background-color: black;
+}
+
+#sidebar img{
+	height:50px;
+	width: auto;
+
+}
+
+#sidebar div{
+	height: auto;
+}
+
+#players{
+	background-color: orange;
+	height:1500px;
+}
+
+#forwards {
+	margin-top: 5%;
+	color: white;
+	  
+}
+
+#forwards p{
+	text-shadow:
+    -1px -1px 0 #000,
+    1px -1px 0 #000,
+    -1px 1px 0 #000,
+    1px 1px 0 #000;
+}
+
+#forwards div{
+	background-image:url('http://static.gofansgo.com/media/post_images/8167873_EoEKLNR.jpg');
+	height: 200px;
+	opacity: 0.5;
+	margin-bottom: 10px;
+	margin-right: 10px;
+}
+
+#forwards div:hover{
+	opacity: 1;
+}
+
+#forwards h1{
+	color: black;
+}
+
+
+#defensemen {
+	margin-top: 10px;
+	color: white;
+	clear: left;
+
+}
+
+#defensemen p{
+	text-shadow:
+    -1px -1px 0 #000,
+    1px -1px 0 #000,
+    -1px 1px 0 #000,
+    1px 1px 0 #000;  
+}
+
+#defensemen div{
+	background-image:url('http://static.gofansgo.com/media/post_images/8167873_EoEKLNR.jpg');
+	height: 200px;
+	opacity: 0.5;
+	margin-bottom: 10px;
+	margin-right: 10px;
+}
+
+#defensemen div:hover{
+	opacity: 1;
+}
+
+#defensemen h1{
+	color: black;
+}
+
+#goalies {
+	margin-top: 10px;
+	color: white;
+	clear: left;
+}
+
+#goalies div{
+	background-image:url('http://static.gofansgo.com/media/post_images/8167873_EoEKLNR.jpg');
+	height: 200px;
+	opacity: 0.5;
+	margin-bottom: 10px;
+	margin-right: 10px;
+}
+
+#goalies div:hover{
+	opacity: 1;
+}
+
+#goalies h1{
+	color: black;
+}
+
+#goalies p{
+	text-shadow:
+    -1px -1px 0 #000,
+    1px -1px 0 #000,
+    -1px 1px 0 #000,
+    1px 1px 0 #000;
+}
+
+.player p{
+	margin-top: 15px;
+}
